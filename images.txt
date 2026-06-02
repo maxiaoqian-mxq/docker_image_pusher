@@ -1,5 +1,5 @@
 #nginx:latest
-iotdb:2.0.4-standalone
+apache/iotdb:2.0.4-standalone
 
 
 #nginx
